@@ -1,0 +1,101 @@
+State,City,Market_Type,Platform,Monthly_Users_Millions,Engagement_Rate,Conversion_Rate,Ad_Cost_Per_Click,Cluster,Sales
+Maharashtra,Mumbai,Urban,YouTube,25,3.5,2.8,4.5,High,76807.84357
+Maharashtra,Pune,Urban,Google Ads,12,3.2,2.5,3.8,Medium,35573.93731
+Delhi,New Delhi,Urban,Google Ads,30,4,3.2,5.2,High,95001.28457
+Karnataka,Bangalore,Urban,LinkedIn,10,4.5,3.8,7,High,39838.252
+Tamil Nadu,Chennai,Urban,YouTube,15,3.8,3,4.9,High,48841.46369
+West Bengal,Kolkata,Urban,Instagram,10,3,2.5,4.2,Medium,29155.32878
+Gujarat,Ahmedabad,Urban,LinkedIn,8,2.8,2.3,3.5,Medium,21215.59971
+Telangana,Hyderabad,Urban,Facebook,20,3.9,3,4.8,High,64210.24729
+Rajasthan,Jaipur,Semi-Urban,WhatsApp,7,3.2,2.7,4.3,Medium,21045.15335
+Kerala,Kochi,Semi-Urban,Facebook,5,3.5,2.9,4,Medium,15786.15362
+Madhya Pradesh,Bhopal,Semi-Urban,Facebook,6,2.5,2.1,3.2,Low,13419.79871
+Punjab,Chandigarh,Urban,Facebook,4,3.8,3.5,6.8,Medium,18176.07725
+Uttar Pradesh,Lucknow,Semi-Urban,WhatsApp,9,3.1,2.6,4.5,Medium,27045.45364
+Bihar,Patna,Rural,Google Ads,4,2.2,1.8,2.9,Low,5848.29097
+Odisha,Bhubaneswar,Rural,WhatsApp,3,2.7,2,3.5,Low,6340.631645
+Maharashtra,Mumbai,Urban,LinkedIn,25,3.5,2.8,4.5,High,76807.84357
+Maharashtra,Pune,Urban,Facebook,12,3.2,2.5,3.8,Medium,35573.93731
+Delhi,New Delhi,Urban,Instagram,30,4,3.2,5.2,High,95001.28457
+Karnataka,Bangalore,Urban,WhatsApp,10,4.5,3.8,7,High,39838.252
+Tamil Nadu,Chennai,Urban,Google Ads,15,3.8,3,4.9,High,48841.46369
+West Bengal,Kolkata,Urban,Facebook,10,3,2.5,4.2,Medium,29155.32878
+Gujarat,Ahmedabad,Urban,WhatsApp,8,2.8,2.3,3.5,Medium,21215.59971
+Telangana,Hyderabad,Urban,LinkedIn,20,3.9,3,4.8,High,64210.24729
+Rajasthan,Jaipur,Semi-Urban,Facebook,7,3.2,2.7,4.3,Medium,21045.15335
+Kerala,Kochi,Semi-Urban,WhatsApp,5,3.5,2.9,4,Medium,15786.15362
+Madhya Pradesh,Bhopal,Semi-Urban,Instagram,6,2.5,2.1,3.2,Low,13419.79871
+Punjab,Chandigarh,Urban,Instagram,4,3.8,3.5,6.8,Medium,18176.07725
+Uttar Pradesh,Lucknow,Semi-Urban,YouTube,9,3.1,2.6,4.5,Medium,27045.45364
+Bihar,Patna,Rural,YouTube,4,2.2,1.8,2.9,Low,5848.29097
+Odisha,Bhubaneswar,Rural,Facebook,3,2.7,2,3.5,Low,6340.631645
+Maharashtra,Mumbai,Urban,YouTube,25,3.5,2.8,4.5,High,76807.84357
+Maharashtra,Pune,Urban,Instagram,12,3.2,2.5,3.8,Medium,35573.93731
+Delhi,New Delhi,Urban,WhatsApp,30,4,3.2,5.2,High,95001.28457
+Karnataka,Bangalore,Urban,YouTube,10,4.5,3.8,7,High,39838.252
+Tamil Nadu,Chennai,Urban,WhatsApp,15,3.8,3,4.9,High,48841.46369
+West Bengal,Kolkata,Urban,Facebook,10,3,2.5,4.2,Medium,29155.32878
+Gujarat,Ahmedabad,Urban,Instagram,8,2.8,2.3,3.5,Medium,21215.59971
+Telangana,Hyderabad,Urban,Instagram,20,3.9,3,4.8,High,64210.24729
+Rajasthan,Jaipur,Semi-Urban,LinkedIn,7,3.2,2.7,4.3,Medium,21045.15335
+Kerala,Kochi,Semi-Urban,YouTube,5,3.5,2.9,4,Medium,15786.15362
+Madhya Pradesh,Bhopal,Semi-Urban,Instagram,6,2.5,2.1,3.2,Low,13419.79871
+Punjab,Chandigarh,Urban,LinkedIn,4,3.8,3.5,6.8,Medium,18176.07725
+Uttar Pradesh,Lucknow,Semi-Urban,Facebook,9,3.1,2.6,4.5,Medium,27045.45364
+Bihar,Patna,Rural,Facebook,4,2.2,1.8,2.9,Low,5848.29097
+Odisha,Bhubaneswar,Rural,LinkedIn,3,2.7,2,3.5,Low,6340.631645
+Maharashtra,Mumbai,Urban,Instagram,25,3.5,2.8,4.5,High,76807.84357
+Maharashtra,Pune,Urban,Instagram,12,3.2,2.5,3.8,Medium,35573.93731
+Delhi,New Delhi,Urban,Instagram,30,4,3.2,5.2,High,95001.28457
+Karnataka,Bangalore,Urban,YouTube,10,4.5,3.8,7,High,39838.252
+Tamil Nadu,Chennai,Urban,Facebook,15,3.8,3,4.9,High,48841.46369
+West Bengal,Kolkata,Urban,Facebook,10,3,2.5,4.2,Medium,29155.32878
+Gujarat,Ahmedabad,Urban,WhatsApp,8,2.8,2.3,3.5,Medium,21215.59971
+Telangana,Hyderabad,Urban,LinkedIn,20,3.9,3,4.8,High,64210.24729
+Rajasthan,Jaipur,Semi-Urban,Facebook,7,3.2,2.7,4.3,Medium,21045.15335
+Kerala,Kochi,Semi-Urban,Facebook,5,3.5,2.9,4,Medium,15786.15362
+Madhya Pradesh,Bhopal,Semi-Urban,Google Ads,6,2.5,2.1,3.2,Low,13419.79871
+Punjab,Chandigarh,Urban,Instagram,4,3.8,3.5,6.8,Medium,18176.07725
+Uttar Pradesh,Lucknow,Semi-Urban,YouTube,9,3.1,2.6,4.5,Medium,27045.45364
+Bihar,Patna,Rural,Facebook,4,2.2,1.8,2.9,Low,5848.29097
+Odisha,Bhubaneswar,Rural,Google Ads,3,2.7,2,3.5,Low,6340.631645
+Maharashtra,Mumbai,Urban,LinkedIn,25,3.5,2.8,4.5,High,76807.84357
+Maharashtra,Pune,Urban,Facebook,12,3.2,2.5,3.8,Medium,35573.93731
+Delhi,New Delhi,Urban,YouTube,30,4,3.2,5.2,High,95001.28457
+Karnataka,Bangalore,Urban,YouTube,10,4.5,3.8,7,High,39838.252
+Tamil Nadu,Chennai,Urban,Facebook,15,3.8,3,4.9,High,48841.46369
+West Bengal,Kolkata,Urban,Google Ads,10,3,2.5,4.2,Medium,29155.32878
+Gujarat,Ahmedabad,Urban,Instagram,8,2.8,2.3,3.5,Medium,21215.59971
+Telangana,Hyderabad,Urban,Facebook,20,3.9,3,4.8,High,64210.24729
+Rajasthan,Jaipur,Semi-Urban,YouTube,7,3.2,2.7,4.3,Medium,21045.15335
+Kerala,Kochi,Semi-Urban,Facebook,5,3.5,2.9,4,Medium,15786.15362
+Madhya Pradesh,Bhopal,Semi-Urban,Instagram,6,2.5,2.1,3.2,Low,13419.79871
+Punjab,Chandigarh,Urban,Instagram,4,3.8,3.5,6.8,Medium,18176.07725
+Uttar Pradesh,Lucknow,Semi-Urban,Instagram,9,3.1,2.6,4.5,Medium,27045.45364
+Bihar,Patna,Rural,LinkedIn,4,2.2,1.8,2.9,Low,5848.29097
+Odisha,Bhubaneswar,Rural,YouTube,3,2.7,2,3.5,Low,6340.631645
+Maharashtra,Mumbai,Urban,Google Ads,25,3.5,2.8,4.5,High,76807.84357
+Maharashtra,Pune,Urban,Instagram,12,3.2,2.5,3.8,Medium,35573.93731
+Delhi,New Delhi,Urban,LinkedIn,30,4,3.2,5.2,High,95001.28457
+Karnataka,Bangalore,Urban,Instagram,10,4.5,3.8,7,High,39838.252
+Tamil Nadu,Chennai,Urban,Google Ads,15,3.8,3,4.9,High,48841.46369
+West Bengal,Kolkata,Urban,Instagram,10,3,2.5,4.2,Medium,29155.32878
+Gujarat,Ahmedabad,Urban,Facebook,8,2.8,2.3,3.5,Medium,21215.59971
+Telangana,Hyderabad,Urban,Google Ads,20,3.9,3,4.8,High,64210.24729
+Rajasthan,Jaipur,Semi-Urban,LinkedIn,7,3.2,2.7,4.3,Medium,21045.15335
+Kerala,Kochi,Semi-Urban,WhatsApp,5,3.5,2.9,4,Medium,15786.15362
+Madhya Pradesh,Bhopal,Semi-Urban,Facebook,6,2.5,2.1,3.2,Low,13419.79871
+Punjab,Chandigarh,Urban,Facebook,4,3.8,3.5,6.8,Medium,18176.07725
+Uttar Pradesh,Lucknow,Semi-Urban,WhatsApp,9,3.1,2.6,4.5,Medium,27045.45364
+Bihar,Patna,Rural,YouTube,4,2.2,1.8,2.9,Low,5848.29097
+Odisha,Bhubaneswar,Rural,YouTube,3,2.7,2,3.5,Low,6340.631645
+Maharashtra,Mumbai,Urban,YouTube,25,3.5,2.8,4.5,High,76807.84357
+Maharashtra,Pune,Urban,WhatsApp,12,3.2,2.5,3.8,Medium,35573.93731
+Delhi,New Delhi,Urban,YouTube,30,4,3.2,5.2,High,95001.28457
+Karnataka,Bangalore,Urban,WhatsApp,10,4.5,3.8,7,High,39838.252
+Tamil Nadu,Chennai,Urban,YouTube,15,3.8,3,4.9,High,48841.46369
+West Bengal,Kolkata,Urban,WhatsApp,10,3,2.5,4.2,Medium,29155.32878
+Gujarat,Ahmedabad,Urban,Instagram,8,2.8,2.3,3.5,Medium,21215.59971
+Telangana,Hyderabad,Urban,WhatsApp,20,3.9,3,4.8,High,64210.24729
+Rajasthan,Jaipur,Semi-Urban,Instagram,7,3.2,2.7,4.3,Medium,21045.15335
+Kerala,Kochi,Semi-Urban,Google Ads,5,3.5,2.9,4,Medium,15786.15362
